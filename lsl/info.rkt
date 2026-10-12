@@ -4,6 +4,7 @@
 
 (define name "lsl")
 (define collection "lsl")
+(define pkg-desc "The Logical Student Language (full package: language, documentation)")
 (define scribblings
   '(["scribblings/lsl.scrbl" ()]))
 
